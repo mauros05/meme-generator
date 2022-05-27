@@ -1,0 +1,72 @@
+.img-class{
+  height: 100px;
+  width: 100px;
+}
+
+.list-inlin{
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+#meme-generator {
+  height: 600px;
+  width: 600px;
+  background-size: cover;
+  background-position: center;
+}
+
+#text-imagen1 {
+  font-family: 'Oswald';
+  font-size: 45px;
+}
+
+#text-imagen2 {
+  font-family: 'Oswald';
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+
+.Title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+}
+
+.SubTitle {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 40px;
+}
+
+.btn-ghost {
+  color: white;
+  border: 1px solid white;
+  padding: 8px 24px;
+  border-radius: 50px;
+  font-weight: lighter;
+  background-color: black;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+}
+
+.btn-ghost:hover {
+  background-color: gray;
+}
+
+#text-meme1 {
+  background-color: rgb(255, 255, 255);
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+#text-meme2 {
+  background-color: rgb(255, 255, 255);
+  border-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+#text-field {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+}
